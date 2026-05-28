@@ -127,7 +127,7 @@ export default function App() {
               <div className="text-center py-6 bg-white rounded-xl p-8 border border-line shadow-xs relative">
                 <div className="absolute -top-3.5 left-1/2 -translate-x-1/2 bg-bg border border-line px-4 py-0.5 rounded-full flex items-center gap-1 shadow-xs">
                   <Flame className="w-3 h-3 text-amber fill-amber/20" />
-                  <span className="text-[9px] font-bold text-slate uppercase tracking-widest font-mono">1.5 Months In • Closeness Space</span>
+                  <span className="text-[9px] font-bold text-slate uppercase tracking-widest font-mono">Closeness Space</span>
                 </div>
                 
                 <h2 className="text-3xl font-serif text-ink font-light tracking-tight mt-2 italic">
