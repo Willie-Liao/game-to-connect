@@ -16,7 +16,7 @@ const CHAR_TRANSLATIONS: Record<string, string> = {
   "雪": "Snow", "江": "River", "海": "Sea", "星": "Star", "日": "Sun", 
   "秋": "Autumn", "夏": "Summer", "冬": "Winter", "竹": "Bamboo", "松": "Pine", 
   "梅": "Plum blossom", "霜": "Frost", "露": "Dew", "溪": "Creek", "湖": "Lake", 
-  "舟": "Boat", "草": "Grass", "叶": "Leaf", "石": "Stone", "天": "Sky"
+  "舟": "Boat", "草": "Grass", "叶": "Leaf", "石": "Stone", "天": "Sky", "心": "Heart"
 };
 
 // Poetic hints for characters to inspire couples
@@ -25,7 +25,8 @@ const POETIC_HINTS: Record<string, string> = {
   "月": "e.g. '海上生明月' / 'The moon shines bright'",
   "雨": "e.g. '清明时节雨纷纷' / 'Dancing in the rain'",
   "山": "e.g. '悠然见南山' / 'The great mountains'",
-  "风": "e.g. '春风十里不如你' / 'A warm spring breeze'",
+  "风": "e.g. '春风不度玉门关' / 'The wind barely blows across the Gobi Desert'",
+  "心": "e.g. '愿得一心人' / 'One devoted heart'",
 };
 
 export default function Feihualing({ onGameOver, onGoHome }: FeihualingProps) {

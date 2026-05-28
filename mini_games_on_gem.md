@@ -40,7 +40,7 @@ The app helps two people build closeness through **lightweight, low-pressure min
    - "What did you learn about money from your parents?"
 
 3. FEIHUALING_CHAR_POOL (飞花令 — nature / material characters common in poetry):
-   - 花, 雨, 月, 山, 风, 春, 夜, 酒, 云, 水, 雪, 江, 海, 星, 日, 秋, 夏, 冬, 竹, 松, 梅, 霜, 露, 溪, 湖, 舟, 草, 叶, 石, 天
+   - 花, 雨, 月, 山, 风, 春, 夜, 酒, 云, 水, 雪, 江, 海, 星, 日, 秋, 夏, 冬, 竹, 松, 梅, 霜, 露, 溪, 湖, 舟, 草, 叶, 石, 天, 心
 
 ### App Logic & Mini-Games:
 - Game 1: The Mind-Reader -> The app secretly selects a number between 30 and 70. Both players input a guess. The closest player wins.
