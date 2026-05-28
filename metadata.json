@@ -1,0 +1,6 @@
+{
+  "name": "Couples Connection Game",
+  "description": "An intimate, light-hearted connection game for couples to build closeness through simple mini-games and curated conversation cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
