@@ -53,7 +53,7 @@ export default function Scoreboard({ score, onReset, activeGameName, onGoHome }:
           <div className="flex items-center justify-between p-3.5 px-4 bg-bg rounded-lg border border-line relative overflow-hidden group">
             <div className="absolute top-0 left-0 w-1 h-full bg-sage/60"></div>
             <div>
-              <p className="text-[10px] font-bold tracking-widest text-slate uppercase">You</p>
+              <p className="text-[10px] font-bold tracking-widest text-slate uppercase">Wiki</p>
               <p className="text-[11px] font-serif italic text-slate/75">Round Partner</p>
             </div>
             <div className="relative">
@@ -76,7 +76,7 @@ export default function Scoreboard({ score, onReset, activeGameName, onGoHome }:
           <div className="flex items-center justify-between p-3.5 px-4 bg-bg rounded-lg border border-line relative overflow-hidden group">
             <div className="absolute top-0 left-0 w-1 h-full bg-amber/60"></div>
             <div>
-              <p className="text-[10px] font-bold tracking-widest text-slate uppercase">Her</p>
+              <p className="text-[10px] font-bold tracking-widest text-slate uppercase">Jelly</p>
               <p className="text-[11px] font-serif italic text-slate/75">Round Partner</p>
             </div>
             <div className="relative">
